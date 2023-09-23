@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Lining's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics and Economics, University of Toronto, 2021(expected)
 
 Work experience
 ======
